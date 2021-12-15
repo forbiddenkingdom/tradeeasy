@@ -1,0 +1,22 @@
+{
+  "tabs": {
+    "dashboard": "Dashboard",
+    "builder": "Builder",
+    "myvalidation": "My Validation",
+    "strategies": "Strategies",
+    "tradingview": "Historical Charts",
+    "user-settings": "User Profile",
+    "news": "News",
+    "help": "Help"
+  },
+  "titles": {
+    "dashboard": "Dashboard",
+    "validation": "Validation",
+    "myvalidation": "My Validation",
+    "builder": "Builder",
+    "strategies": "Strategies",
+    "generate_balance_chart": "Generate Balance Chart",
+    "profile": "User Profile",
+    "tradingview": "Historical Charts"
+  }
+}

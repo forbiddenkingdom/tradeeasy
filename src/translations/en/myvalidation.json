@@ -1,0 +1,43 @@
+{
+  "MyStrategies": "My Strategies",
+  "SharedStrategies": "Shared strategies",
+  "Risk": "Risk",
+  "Profit": "Profit",
+  "GainsOnly": "Gains only",
+  "LosesOnly": "Loses only",
+  "GainLossRatio": "Gain/Loss Ratio",
+  "EnableNotifications": "Enable Notifications",
+  "OpenBuilder": "Open in Builder",
+  "RecoverStrategy": "Recover Strategy",
+  "OpenValidator": "Open in Validator",
+  "PublicAccess": "Public Access",
+  "Duplicate": "Duplicate",
+  "Download": "Download",
+  "Delete": "Delete",
+  "OK": "Action completed succesfully!",
+  "KO": "There was an error, please contact with support.",
+  "StrategyName": "StrategyName",
+  "TestResults": "Test Results",
+  "Gain": "Gain :",
+  "Winning": "Winning",
+  "Losing": "Losing",
+  "PorWinningTrades": "% if winning trades",
+  "validationTable": {
+    "validationId": "Validation ID",
+    "riskProfit": "Risk / Profit",
+    "asset": "Asset",
+    "creator": "Creator",
+    "validationTime": "Validation Time",
+    "detail": {
+      "AvgGain": "Avg. gain",
+      "trade": "/ trade",
+      "OfWinningTrades": "of winning trades",
+      "AvgLoss": "Avg. loss",
+      "OfLosingTrades": "of losing trades",
+      "GainsOfBestTrade": "Gains of best trade",
+      "LossOfWorstTrade": "Loss of worst trade",
+      "MaxRunup": "Max Runup",
+      "MaxDrawdown": "Max drawdown"
+    }
+  }
+}

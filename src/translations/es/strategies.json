@@ -1,0 +1,43 @@
+{
+  "MyStrategies": "Mis Estrategias",
+  "SharedStrategies": "Estrategias Compratidas",
+  "Risk": "Riesgo",
+  "Profit": "Beneficio",
+  "GainsOnly": "Solo beneficio",
+  "LosesOnly": "Solo perdidas",
+  "GainLossRatio": "Ratio Beneficio/Perdida",
+  "EnableNotifications": "Activar Avisos",
+  "OpenBuilder": "Abrir en Constructor",
+  "OpenValidator": "Abrir en Validador",
+  "PublicAccess": "Acceso Publico",
+  "Duplicate": "Duplicar",
+  "Download": "Descargar",
+  "Delete": "Borrar",
+  "OK": "Terminado correctamente!",
+  "KO": "Hemos tenido un error, contacte con soporte.",
+  "StrategyName": "Nombre de la estrategia",
+  "TestResults": "Resultado de la validación",
+  "Gain": "Beneficio :",
+  "Winning": "Ganadoras",
+  "Losing": "Perdedoras",
+  "PorWinningTrades": "% órdenes ganadoras",
+  "strategyTable": {
+    "strategyName": "Titulo de la Estrategia",
+    "riskProfit": "Riesgo / Beneficio",
+    "asset": "Activo",
+    "creator": "Creador",
+    "lastEdit": "Última edición",
+    "detail": {
+      "AvgGain": "Media",
+      "AvgGain1": "Beneficio Medio",
+      "AvgLoss": "Perdida Media",
+      "OfWinningTrades": "de ordenes ganadoras",
+      "OfLosingTrades": "de ordenes perdedoras",
+      "GainsOfBestTrade": "Mejor Orden",
+      "LossOfWorstTrade": "Peor Orden",
+      "MaxRunup": "Mejor racha",
+      "MaxDrawdown": "Peor racha",
+      "trade": "/ orden"
+    }
+  }
+}

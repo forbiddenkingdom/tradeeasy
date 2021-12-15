@@ -1,0 +1,22 @@
+{
+  "tabs": {
+    "dashboard": "Panel de Control",
+    "builder": "Constructor",
+    "myvalidation": "Mis Validaciones",
+    "strategies": "Estrategias",
+    "tradingview": "Gráficos Históricos",
+    "user-settings": "Perfil de Usuario",
+    "news": "Noticias",
+    "help": "Ayuda"
+  },
+  "titles": {
+    "dashboard": "Panel de Control",
+    "validation": "Validación",
+    "myvalidation": "Mis Validaciones",
+    "builder": "Constructor",
+    "strategies": "Estrategias",
+    "generate_balance_chart": "Generar Gráfico de Saldo",
+    "profile": "Perfil de Usuario",
+    "tradingview": "Gráficos Históricos"
+  }
+}

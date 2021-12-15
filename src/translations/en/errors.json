@@ -1,0 +1,8 @@
+{
+  "scenario": "There are errors in the actual scenario. Remember that each rule needs at least 1 element as trigger.",
+  "noCloseRules": "There are no closing rules or they are all disabled",
+  "noOpenRules": "There are no opening rules or they are all disabled",
+  "noElements": "This rule does not have any elements.",
+  "noTrigger": "This rule does not have any elements in trigger mode",
+  "maxTrigger": "There can only be one item in trigger mode"
+}

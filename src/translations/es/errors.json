@@ -1,0 +1,8 @@
+{
+  "scenario": "Hay errores en el escenario actual, recúerda que mínimo las reglas tienen que tener un elemento en modo disparo.",
+  "noCloseRules": "No hay ninguna regla de cierre o están todas desactivadas",
+  "noOpenRules": "No hay ninguna regla de apertura o están todas desactivadas",
+  "noElements": "Esta regla no tiene ningún elemento.",
+  "noTrigger": "Esta regla no tiene ningún elemento en modo disparo",
+  "maxTrigger": "Solo puede haber un elemento en modo disparo"
+}
